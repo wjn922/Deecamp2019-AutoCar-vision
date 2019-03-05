@@ -1,0 +1,4 @@
+stop
+obstacle
+slow
+car
